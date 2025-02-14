@@ -8,4 +8,7 @@ youtube demo ---
 
 trains are amtrak p42, pnr inka c3300, and santa fe f7
 
+motor driver is an RZ7886 8 pin dip
+
+
 
